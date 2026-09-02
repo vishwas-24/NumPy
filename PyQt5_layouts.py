@@ -30,8 +30,8 @@ class MainWindow(QMainWindow):
         lable5.setStyleSheet("background-color: purple;")
 
         # vbox = QVBoxLayout()      # for vertical line
-        # hbox = QHBoxLayout()        # for horizontal line
-        grid = QGridLayout()
+        # hbox = QHBoxLayout()      # for horizontal line
+        grid = QGridLayout()        # for grid type layout
 
         # vbox.addWidget(lable1)
         # vbox.addWidget(lable2)
